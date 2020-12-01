@@ -9,4 +9,8 @@ public class Demo {
 
         System.out.println("I am not covered");
     }
+    
+     public void DoSomethingBeautiful(){
+         System.out.println(":-*");         
+    }
 }
