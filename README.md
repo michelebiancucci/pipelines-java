@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/michelebiancucci/Tutorial/_apis/build/status/michelebiancucci.pipelines-java?branchName=master)](https://dev.azure.com/michelebiancucci/Tutorial/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
